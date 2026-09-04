@@ -11,7 +11,7 @@ A simple weather app built with HTML, CSS, and vanilla JavaScript. Search for a 
 - Uses the OpenWeatherMap API
 
 ## Preview
-
+https://usamakhan111.github.io/weather-app/
 Open the app in a browser, enter a city name, and select **Get Weather**.
 
 ## Getting Started
